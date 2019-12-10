@@ -37,7 +37,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                     <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>daw.jcarlosvico.Principal</mainClass>
+                            <mainClass>daw.jcarlosvico</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
